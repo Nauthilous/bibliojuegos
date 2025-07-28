@@ -18,12 +18,12 @@ Este juego fue escrito pensando en modelos a escala de 32mm, que van montados en
 
 Aquí tienes algunas pautas aproximadas para los tamaños de modelos y peanas:
 
-• **Infantería:** 32mm de alto en peanas redondas de 20mm/32mm
-• **Infantería grande:** 50mm de alto en peanas redondas de 40mm/50mm
-• **Motos:** 40mm de alto en peanas ovales de 60mm
-• **Monstruos:** 70mm de alto en peanas redondas de 60mm
-• **Andadores grandes:** 100mm de alto en peanas ovales de 120mm
-• **Vehículos:** Varios tamaños y no montados en una peana
+- **Infantería:** 32mm de alto en peanas redondas de 20mm/32mm
+- **Infantería grande:** 50mm de alto en peanas redondas de 40mm/50mm
+- **Motos:** 40mm de alto en peanas ovales de 60mm
+- **Monstruos:** 70mm de alto en peanas redondas de 60mm
+- **Andadores grandes:** 100mm de alto en peanas ovales de 120mm
+- **Vehículos:** Varios tamaños y no montados en una peana
 
 Ten en cuenta que el tamaño de la peana que uses no importa, siempre que mantengas la consistencia de los tamaños de las peanas en todos los modelos.
 
@@ -37,12 +37,12 @@ Esto significa que cuando una regla se aplica a una unidad, se aplica a todas la
 
 Las unidades vienen con una variedad de estadísticas que definen quiénes son y qué pueden hacer.
 
-• **Nombre (Tamaño):** El nombre de la unidad y el número de modelos.
-• **Calidad:** La puntuación necesaria para ataques y moral.
-• **Defensa:** La puntuación necesaria para la defensa.
-• **Equipo:** Cualquier arma y equipo que tenga la unidad.
-• **Reglas Especiales:** Cualquier regla especial que tenga la unidad.
-• **Coste:** Cuántos puntos cuesta incluir esta unidad.
+- **Nombre (Tamaño):** El nombre de la unidad y el número de modelos.
+- **Calidad:** La puntuación necesaria para ataques y moral.
+- **Defensa:** La puntuación necesaria para la defensa.
+- **Equipo:** Cualquier arma y equipo que tenga la unidad.
+- **Reglas Especiales:** Cualquier regla especial que tenga la unidad.
+- **Coste:** Cuántos puntos cuesta incluir esta unidad.
 
 ### Dados
 
@@ -52,9 +52,9 @@ Además, recomendamos tener dados de varios colores para que puedas combinarlos 
 
 A veces, las reglas se referirán a diferentes tipos de dados, por ejemplo, D3, 2D6 y D6+1. Hay muchos tipos de dados, pero la notación sigue siendo la misma, así que simplemente aplica las siguientes explicaciones a todos los tipos de dados extraños que encuentres.
 
-• **D3:** Para usar estos dados, simplemente tira un D6 y divide el resultado por la mitad, redondeando hacia arriba.
-• **2D6:** Para usar estos dados, simplemente tira dos D6 y suma los resultados de ambos dados.
-• **D6+1:** Para usar estos dados, simplemente tira un D6 y suma 1 al resultado.
+- **D3:** Para usar estos dados, simplemente tira un D6 y divide el resultado por la mitad, redondeando hacia arriba.
+- **2D6:** Para usar estos dados, simplemente tira dos D6 y suma los resultados de ambos dados.
+- **D6+1:** Para usar estos dados, simplemente tira un D6 y suma 1 al resultado.
 
 ### Repetir tiradas
 
@@ -86,7 +86,7 @@ Todas las armas del juego se dividen en dos categorías: armas a distancia y arm
 
 Los perfiles de las armas se representan así:
 
-• Nombre (Alcance, Ataques, Reglas Especiales)
+- Nombre (Alcance, Ataques, Reglas Especiales)
 
 *Ejemplo: Rifle Pesado (24”, A1, PA(1))*
 
@@ -94,8 +94,8 @@ Los perfiles de las armas se representan así:
 
 Para jugar, necesitarás una regla marcada en pulgadas, que podrás usar para medir distancias en cualquier momento:
 
-• Al medir la distancia entre dos modelos, siempre se mide desde/hacia el punto más cercano de sus peanas.
-• Al medir la distancia entre dos unidades, siempre se mide desde/hacia el modelo más cercano de cada unidad.
+- Al medir la distancia entre dos modelos, siempre se mide desde/hacia el punto más cercano de sus peanas.
+- Al medir la distancia entre dos unidades, siempre se mide desde/hacia el modelo más cercano de cada unidad.
 
 Las distancias se miden normalmente desde la peana de un modelo. Sin embargo, si un modelo no tiene peana, los jugadores deben acordar desde dónde se medirán las distancias (como su chasis/torso) y qué elementos inusuales se pueden ignorar (como estandartes decorativos o efectos de llamas).
 
@@ -155,10 +155,10 @@ Opcionalmente, tú y tu oponente podéis acordar usar las reglas de organizació
 
 Los ejércitos deben seguir estas limitaciones:
 
-• Solo 1 héroe por cada 500pts
-• Solo 1+X copias de la misma unidad, donde X es 1 por cada 1000pts (las unidades combinadas cuentan como una)
-• Ninguna unidad puede valer más del 35 % del total de puntos
-• Solo 1 unidad por cada 200pts como máximo
+- Solo 1 héroe por cada 500pts
+- Solo 1+X copias de la misma unidad, donde X es 1 por cada 1000pts (las unidades combinadas cuentan como una)
+- Ninguna unidad puede valer más del 35 % del total de puntos
+- Solo 1 unidad por cada 200pts como máximo
 
 *Ejemplo: Al jugar una partida de 2000pts, los jugadores pueden llevar un máx. de 4 héroes, un máx. de 3 copias de cada unidad, ninguna unidad que valga más de 700pts, y un máx. de 10 unidades en total.*
 
@@ -184,9 +184,9 @@ Luego, los jugadores continúan alternándose para colocar una unidad cada uno, 
 
 La partida se estructura en rondas de juego, turnos de jugador y activaciones de unidad. Aquí tienes el desglose de lo que significan:
 
-• **Rondas:** Cada ronda se compone de múltiples turnos.
-• **Turnos:** Cada turno se compone de una única activación.
-• **Activaciones:** Cada activación se compone de una acción.
+- **Rondas:** Cada ronda se compone de múltiples turnos.
+- **Turnos:** Cada turno se compone de una única activación.
+- **Activaciones:** Cada activación se compone de una acción.
 
 ### Estructura de la Partida
 
@@ -202,10 +202,10 @@ Después de jugar 4 rondas, la partida termina, y los jugadores determinan quié
 
 Los jugadores deben activar una unidad que aún no haya sido activada y realizar una de las acciones disponibles:
 
-• **Mantenerse** - No se mueve, puede disparar.
-• **Avanzar** - Se mueve 6” y puede disparar tras mover.
-• **Correr** - Se mueve 12” pero no puede disparar.
-• **Cargar** - Se mueve 12” al combate cuerpo a cuerpo.
+- **Mantenerse** - No se mueve, puede disparar.
+- **Avanzar** - Se mueve 6” y puede disparar tras mover.
+- **Correr** - Se mueve 12” pero no puede disparar.
+- **Cargar** - Se mueve 12” al combate cuerpo a cuerpo.
 
 Ten en cuenta que las acciones de Avanzar, Correr y Cargar a veces pueden denominarse “Acciones de Movimiento”.
 
@@ -393,8 +393,8 @@ Ten en cuenta que el tamaño total se cuenta al principio de la partida.
 
 Para hacer un chequeo de moral, la unidad afectada simplemente debe hacer un chequeo de calidad normal, y ver qué sucede:
 
-• Si se supera el chequeo, no pasa nada.
-• Si se falla el chequeo, la unidad queda Aturdida.
+- Si se supera el chequeo, no pasa nada.
+- Si se falla el chequeo, la unidad queda Aturdida.
 
 ### Chequeos de Moral en Combate Cuerpo a Cuerpo
 
@@ -404,9 +404,9 @@ Ten en cuenta que las unidades que son destruidas en combate cuerpo a cuerpo sie
 
 Para hacer un chequeo de moral, la unidad afectada simplemente debe hacer un chequeo de calidad normal, y ver qué sucede:
 
-• Si se supera el chequeo, no pasa nada.
-• Si se falla el chequeo, y la unidad aún tiene más de la mitad de su tamaño total o valor de resistencia (para unidades de un solo modelo), entonces la unidad queda Aturdida.
-• Si se falla el chequeo, y la unidad solo tiene la mitad o menos de su tamaño total o valor de resistencia (para unidades de un solo modelo), entonces la unidad Huye.
+- Si se supera el chequeo, no pasa nada.
+- Si se falla el chequeo, y la unidad aún tiene más de la mitad de su tamaño total o valor de resistencia (para unidades de un solo modelo), entonces la unidad queda Aturdida.
+- Si se falla el chequeo, y la unidad solo tiene la mitad o menos de su tamaño total o valor de resistencia (para unidades de un solo modelo), entonces la unidad Huye.
 
 ### Unidades Aturdidas
 
@@ -496,34 +496,34 @@ Aunque no hay reglas específicas sobre cómo se debe colocar el terreno, aquí 
 
 Aquí tienes todas las cosas que deberías considerar:
 
-• Tamaño de tu terreno
-• Reglas para cada terreno
-• Número de piezas
-• Cómo colocarlo
+- Tamaño de tu terreno
+- Reglas para cada terreno
+- Número de piezas
+- Cómo colocarlo
 
 ### Resumen del Terreno
 
 Aunque no hay límite para el tamaño del terreno que puedes usar en tus partidas, tenemos algunas recomendaciones para ti:
 
-• Las piezas pequeñas de escenografía dispersa, como barriles, cajas, barricadas, etc., deberían tener un tamaño de entre 1”x1” y 3”x3”.
-• Los elementos de terreno grandes, como edificios, bosques, lagos, etc., deberían tener un tamaño de entre 4”x4” y 8”x8”, pero pueden ser tan grandes como 12”x12”.
+- Las piezas pequeñas de escenografía dispersa, como barriles, cajas, barricadas, etc., deberían tener un tamaño de entre 1”x1” y 3”x3”.
+- Los elementos de terreno grandes, como edificios, bosques, lagos, etc., deberían tener un tamaño de entre 4”x4” y 8”x8”, pero pueden ser tan grandes como 12”x12”.
 
 Para cada elemento de terreno, también tendrás que definir algunas reglas básicas sobre cómo funciona en el juego. La mayoría de los elementos de terreno probablemente tendrán un único tipo, pero puedes combinar múltiples tipos e incluso añadirles condiciones adicionales.
 
 Aquí tienes algunas pautas para tipos de terreno comunes:
 
-• **Barricadas -** Cobertura
-• **Edificios -** Infranqueable + De Bloqueo
-• **Campos -** Difícil + Cobertura
-• **Bosques -** Difícil + Cobertura + Las unidades pueden ver hacia dentro y fuera de los bosques, pero no a través de ellos
-• **Colinas -** Cobertura + Difícil al subir + Las unidades en la cima pueden ignorar una unidad/terreno para la línea de visión
-• **Lagos -** Difícil (si es poco profundo) o Infranqueable (si es profundo)
-• **Lava -** Peligroso
-• **Montañas -** Infranqueable + De Bloqueo
-• **Ríos -** Peligroso al usar correr/cargar
-• **Escombros -** Difícil
-• **Ruinas -** Cobertura + Peligroso al usar correr/cargar
-• **Pantanos -** Difícil
+- **Barricadas -** Cobertura
+- **Edificios -** Infranqueable + De Bloqueo
+- **Campos -** Difícil + Cobertura
+- **Bosques -** Difícil + Cobertura + Las unidades pueden ver hacia dentro y fuera de los bosques, pero no a través de ellos
+- **Colinas -** Cobertura + Difícil al subir + Las unidades en la cima pueden ignorar una unidad/terreno para la línea de visión
+- **Lagos -** Difícil (si es poco profundo) o Infranqueable (si es profundo)
+- **Lava -** Peligroso
+- **Montañas -** Infranqueable + De Bloqueo
+- **Ríos -** Peligroso al usar correr/cargar
+- **Escombros -** Difícil
+- **Ruinas -** Cobertura + Peligroso al usar correr/cargar
+- **Pantanos -** Difícil
 
 Ten en cuenta que, aunque todo el terreno que hemos mencionado hasta ahora es lo que necesitarás para fines de juego, también es bueno tener elementos de terreno decorativo que no tienen ningún efecto en el juego, pero que ayudan a que tu mesa se vea mejor.
 
@@ -539,10 +539,10 @@ También es bueno mantener un equilibrio de diferentes tipos de terreno, para qu
 
 Aquí tienes algunas recomendaciones básicas sobre tipos de terreno:
 
-• Al menos el 50% debería bloquear la línea de visión
-• Al menos el 33% debería proporcionar cobertura
-• Al menos el 33% debería ser terreno difícil
-• Cada jugador debería elegir 1 pieza para que sea peligrosa
+- Al menos el 50% debería bloquear la línea de visión
+- Al menos el 33% debería proporcionar cobertura
+- Al menos el 33% debería ser terreno difícil
+- Cada jugador debería elegir 1 pieza para que sea peligrosa
 
 *Ejemplo: Si estás jugando con 12 piezas de terreno, al menos 6 deberían bloquear la línea de visión, 4 deberían proporcionar cobertura, 4 deberían ser terreno difícil y 2 deberían ser terreno peligroso.*
 
